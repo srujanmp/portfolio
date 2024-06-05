@@ -1,4 +1,90 @@
 *{
-    font-family: "Merriweather", serif;
+    /* font-family: "Merriweather", serif; */
+    font-family: "Plus Jakarta Sans", sans-serif;
     
+    color:white;
+    
+}
+body{
+    background-color: rgb(3, 3, 24);
+}
+header{
+    align-content:center;
+    /* align-items: normal; */
+    text-align: right;
+    display:block;
+
+    font-size:18px;
+    height:50px;
+    padding-right:10%;
+    position:fixed;
+    top:0;
+    right:0;
+}
+
+li.links{
+    display:inline;
+    margin:0px;
+    padding:0px;
+}
+
+a{
+    display:inline;
+    text-decoration: none;
+    border:1px solid rgba(255, 255, 255,0.5);
+    padding:5px;
+    margin:0px;
+}
+
+div{
+    display:flexbox;
+    /* border:1px solid white; */
+    min-height:500px;
+    padding:10px;
+    border-radius:10px;
+    margin:5px;
+}
+div:hover{
+    background-color:#060624;
+}
+div#home{
+    text-align: center;
+    margin-top:50px;
+    padding-top:100px;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+   
+}
+
+h1{
+    display:inline;
+    
+}
+img{
+    margin-top:50px;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+    background: url(logo.png) no-repeat center center;
+    border:2px solid rgba(255, 255, 255,0.5);
+    width:150px;
+    border-radius:75px;
+
+}
+
+div#about{
+
+}
+div#education{
+
+}
+div#projects{
+
+}
+div#certificates{
+
+}
+div#contact{
+
 }
