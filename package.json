@@ -4,11 +4,12 @@
   "description": "Srujan M Padmashali Portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --watch index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "devDependencies": {}
 }
