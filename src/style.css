@@ -88,3 +88,10 @@ div#certificates{
 div#contact{
 
 }
+
+@media (max-width: 768px) {
+    header{
+        font-size:10px;
+        text-align: right;
+    }
+}
