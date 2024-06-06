@@ -135,7 +135,7 @@ form{
     float: left; width: 50%
 }
 #shorttext{display:none}
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     header{
         font-size:10px;
         text-align: right;
