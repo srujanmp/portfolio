@@ -141,7 +141,7 @@ form{
 #shorttext{display:none}
 @media (max-width: 1025px) {
     header{
-        
+        font-size:15px;
         text-align: right;
     }
     div{
