@@ -88,10 +88,14 @@ div#education{
 
 }
 div#projects{
-
+    padding:0;
+    margin:0;
 }
 div#certificates{
-
+    height: auto;
+    min-height: auto;
+    padding:0;
+    margin:0;
 }
 div#contact{
     width:78%;
@@ -147,6 +151,32 @@ form{
         font-size:20px;
 
     }
+    div#education{
+        font-size:15px;
+    }
     #shorttext{display:inline-block;}
     #longtext{display:none;}
+}
+
+#myWorkContent{
+  
+    padding: 0%;
+    width:98%;
+    height:300px;
+    border: 2px solid #0c0c53;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    scrollbar-color: #16168a;
+}
+#myWorkContent a {
+    display: inline;
+    padding:0;
+    margin:0;
+}
+#myWorkContent a img{
+    height:300px;
+    display: inline;
+    padding:0;
+    margin:0;
 }
