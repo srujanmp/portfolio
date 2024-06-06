@@ -94,7 +94,7 @@ div#certificates{
 
 }
 div#contact{
-    width:100%;
+    width:80%;
     display:inline-block;
     text-align:left;
 }
@@ -118,13 +118,13 @@ input:hover{
 }
 .contactlinks{
     padding:10px;
-    overflow: hidden;
+    
 }
 .contactinfo{
     display:inline;
     margin-top:50px;
     float: right; width: 50%;
-    overflow: hidden;
+   
 
 }
 span.contactinfo h5 a{
