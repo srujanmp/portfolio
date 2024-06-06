@@ -94,9 +94,9 @@ div#certificates{
 
 }
 div#contact{
-    width:75%;
+    width:78%;
     display:inline-block;
-    text-align:left;
+ 
 }
 input{
     background-color:#070729;
@@ -138,5 +138,8 @@ form{
     header{
         font-size:10px;
         text-align: right;
+    }
+    div{
+        font-size:15px;
     }
 }
