@@ -141,14 +141,14 @@ form{
 #shorttext{display:none}
 @media (max-width: 1025px) {
     header{
-        font-size:13px;
+        font-size:11px;
         text-align: right;
     }
     div{
         font-size:11px;
     }
     input{
-        font-size:15px;
+        font-size:13px;
 
     }
     div#education{
