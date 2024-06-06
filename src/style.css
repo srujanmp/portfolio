@@ -118,11 +118,14 @@ input:hover{
 }
 .contactlinks{
     padding:10px;
+    overflow: hidden;
 }
 .contactinfo{
     display:inline;
     margin-top:50px;
-    float: right; width: 50%
+    float: right; width: 50%;
+    overflow: hidden;
+
 }
 span.contactinfo h5 a{
     border:1px solid rgba(255, 255, 255, 0.205);
